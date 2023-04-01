@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT Name FROM STUDENTS
 WHERE Marks > 75
