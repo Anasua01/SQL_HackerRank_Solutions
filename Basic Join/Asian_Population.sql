@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT SUM(CITY.POPULATION) 
 FROM CITY, COUNTRY
