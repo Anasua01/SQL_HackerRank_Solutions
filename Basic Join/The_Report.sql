@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT IF (S.Marks < 70, 'NULL', S.Name), G.Grade, S.Marks
 FROM Students AS S, Grades AS G
