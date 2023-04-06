@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT
     TRUNCATE(MAX(LAT_N), 4)
