@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT salary * months AS earnings, COUNT(*)
 FROM Employee
