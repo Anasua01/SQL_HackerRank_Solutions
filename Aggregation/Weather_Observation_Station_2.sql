@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT 
     ROUND(SUM(LAT_N), 2),
