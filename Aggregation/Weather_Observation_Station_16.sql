@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT 
     ROUND(MIN(LAT_N), 4)
