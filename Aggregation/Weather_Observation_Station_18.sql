@@ -1,4 +1,3 @@
--- github.com/RodneyShag
 
 SELECT
     ROUND(ABS(MAX(LAT_N)  - MIN(LAT_N))
